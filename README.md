@@ -1,5 +1,3 @@
 #Coba Git
 
-ini bukan kau di pehapein
-
-
+ini bukan mau di pehapein
